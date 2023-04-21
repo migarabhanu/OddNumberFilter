@@ -1,3 +1,7 @@
+![image](https://media.tenor.com/_7r8RXryt3QAAAAd/python-powered.gif)
+
+**CODE**
+
 
 print('Welcome to Odd number filtering program')
 print('Written by Migara Bhanu.')
@@ -86,4 +90,4 @@ print('')
 print('')
 print('Thanks! Have a Nice day!')
 
-input('Please exit now...')
+input('Please exit now...')*
